@@ -1,0 +1,187 @@
+[
+  {
+    "id": "079651fb-fd46-4ba8-afc8-74ffbd7222ce",
+    "title": "How rural hospitals are banding together to survive - NPR",
+    "url": "https://www.npr.org/sections/shots-health-news/2025/09/02/nx-s1-5519257/rural-hospitals-independent-health-networks",
+    "source": "NPR",
+    "summary": {
+      "summary": "Rural hospitals in North Dakota are banding together to form the Rough Rider Network, a clinically integrated network that allows them to share resources and negotiate better prices for medical services, including a mobile MRI unit. This network is an alternative to shutting down or reducing services, or to giving up local autonomy and joining a large hospital system. The network has also been successful in improving patient care and reducing costs.",
+      "key_facts": [
+        "The Rough Rider Network represents about two-thirds of rural North Dakotans and has negotiated better prices for medical services.",
+        "The network has helped reduce insurance costs and improve patient outcomes for its members.",
+        "Rural networks can also invest in community development projects, such as broadband and housing, to help people stay healthy and access care."
+      ],
+      "uncertainty": "While the networks have reported success in improving patient care and reducing costs, there is limited academic evidence to support these claims.",
+      "recommendation": "Consult professional"
+    },
+    "classification": {
+      "label": "Informative",
+      "confidence": 1.0,
+      "reason": "The text provides background information on rural hospitals forming a network, but does not give explicit step-by-step or clear recommendations for immediate action."
+    }
+  },
+  {
+    "id": "96750ce9-6dec-43ce-bca3-ca966eee6a99",
+    "title": "Teenager With Exceptional “Mental Time Travel” Abilities Sees Past And Future With Rare Clarity - IFLScience",
+    "url": "https://www.iflscience.com/teenager-with-exceptional-mental-time-travel-abilities-sees-past-and-future-with-rare-clarity-80642",
+    "source": "IFLScience",
+    "summary": {
+      "summary": "A 17-year-old girl from France has exceptional 'mental time travel' abilities, allowing her to vividly recall past events and foresee future events with rare clarity. She has hyperthymesia, a condition characterized by an unusually rich and detailed autobiographical memory. Researchers tested her abilities and found them to be unusually vivid and detailed. The mechanisms behind her ability remain unknown, but her family members exhibit rare cognitive traits that could be related.",
+      "key_facts": [
+        "The 17-year-old girl has hyperthymesia, a condition characterized by an unusually rich and detailed autobiographical memory.",
+        "She can mentally travel back in time to relive events and foresee personal events in the future with exceptional realism.",
+        "The mechanisms behind her ability remain unknown, but her family members exhibit rare cognitive traits such as synesthesia and perfect pitch."
+      ],
+      "uncertainty": "The study's limitations include the fact that the researchers cannot assess the accuracy of her recollection, and the mechanisms behind her ability remain unknown.",
+      "recommendation": "Consult professional"
+    },
+    "classification": {
+      "label": "Informative",
+      "confidence": 0.8,
+      "reason": "The article provides background information and study results about a teenager's exceptional abilities, but does not give explicit step-by-step or clear recommendations."
+    }
+  },
+  {
+    "id": "61129ea0-705f-4faf-a549-18f4dc9f1723",
+    "title": "These scientists found Alzheimer’s in their genes. Here’s what they did next : Shots - Health News - NPR",
+    "url": "https://www.npr.org/sections/shots-health-news/2025/09/02/nx-s1-5522371/alzheimers-risk-apoe4-genes-scientists-treatment-advocacy",
+    "source": "NPR",
+    "summary": {
+      "summary": "Three scientists who carry a genetic variant that increases their risk for Alzheimer's are working to protect their brains and advocate for research and treatment options. They are participating in studies, making lifestyle changes, and pushing for federal funding for Alzheimer's research. While some studies show promise, the scientists acknowledge that their genetic profile may limit their ability to benefit from certain treatments.",
+      "key_facts": [
+        "People with two copies of the APOE4 gene have a 60% chance of developing Alzheimer's by age 85.",
+        "Only about 2-3% of people in the U.S. have the APOE4-4 genetic profile, but most don't know it because they haven't sought genetic testing.",
+        "Scientists are advocating for federal funding for Alzheimer's research and pushing for easier regulatory paths for drugs that might help people with the APOE4-4 genotype."
+      ],
+      "uncertainty": "While lifestyle changes and some treatments may show promise, the effectiveness of these interventions is still unclear, and the APOE4-4 genotype may limit access to certain treatments.",
+      "recommendation": "Consult professional"
+    },
+    "classification": {
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01jy1qsg8te5zvf23rcnmt4e8b` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 5919, Requested 379. Please try again in 2.98s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+    }
+  },
+  {
+    "id": "f571e62e-d692-4b6e-bbbb-927bbc72af41",
+    "title": "Tishrei Guests Encouraged to Get Health and Travel Insurance - COLlive",
+    "url": "https://collive.com/tishrei-guests-encouraged-to-get-health-and-travel-insurance/",
+    "source": "COLlive - Chabad News",
+    "summary": {
+      "summary": "A campaign encourages Tishrei guests from Israel to obtain health and travel insurance before their trip. This is likened to not traveling without essential items like suitcases or clothing. The campaign aims to raise awareness about the importance of being prepared for medical emergencies and travel-related issues.",
+      "key_facts": [
+        "Tishrei guests from Israel are being encouraged to get health and travel insurance.",
+        "The campaign compares health and travel insurance to essential travel items like suitcases and clothing.",
+        "The goal is to raise awareness about the importance of being prepared for medical emergencies and travel-related issues."
+      ],
+      "uncertainty": "No specific details are provided about the campaign, its organization, or the availability of health and travel insurance options.",
+      "recommendation": "Consult professional"
+    },
+    "classification": {
+      "label": "Actionable Advice",
+      "confidence": 0.8,
+      "reason": "The text explicitly encourages readers to obtain health and travel insurance before their trip, providing a clear recommendation."
+    }
+  },
+  {
+    "id": "24fd512b-97f8-403c-a6f2-f02aabf61e1e",
+    "title": "“Read the box…” Elon Musk raises alarm over contraceptives and birth control pills - Times of India",
+    "url": "https://timesofindia.indiatimes.com/world/us/read-the-box-elon-musk-raises-alarm-over-contraceptives-and-birth-control-pills/articleshow/123657094.cms",
+    "source": "The Times of India",
+    "summary": {
+      "summary": "There is no article content provided to summarize. The provided text appears to be a website's front page with various unrelated articles.",
+      "key_facts": [
+        "No key facts available due to the lack of relevant article content.",
+        "No key facts available due to the lack of relevant article content.",
+        "No key facts available due to the lack of relevant article content."
+      ],
+      "uncertainty": "The article does not exist as there was an apparent mistake in the provided text.",
+      "recommendation": "Consult professional"
+    },
+    "classification": {
+      "label": "Informative",
+      "confidence": 0.8,
+      "reason": "The summary appears to be a front page of a news website without any specific article content, lacking actionable advice."
+    }
+  },
+  {
+    "id": "a75170e1-8a72-49d4-b296-566bf7444f58",
+    "title": "Common Drug Better Than Aspirin For Repeat Heart Attacks, Study Finds - ScienceAlert",
+    "url": "https://www.sciencealert.com/common-drug-better-than-aspirin-for-repeat-heart-attacks-study-finds",
+    "source": "ScienceAlert",
+    "summary": {
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01jy1qsg8te5zvf23rcnmt4e8b` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 4910, Requested 1277. Please try again in 1.862s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+    },
+    "classification": {
+      "label": "Informative",
+      "confidence": 1,
+      "reason": "The summary does not provide explicit step-by-step or clear recommendations, but rather reports on a study's findings."
+    }
+  },
+  {
+    "id": "75efc22c-c7d3-4413-9f7e-3103d675fafe",
+    "title": "Whatever happened to mpox? Is it still a threat? - NPR",
+    "url": "https://www.npr.org/sections/goats-and-soda/2025/09/02/g-s1-86303/mpox-outbreak-africa",
+    "source": "NPR",
+    "summary": {
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01jy1qsg8te5zvf23rcnmt4e8b` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 3722, Requested 2400. Please try again in 1.219s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+    },
+    "classification": {
+      "label": "Informative",
+      "confidence": "1.0",
+      "reason": "The article appears to be providing background information and current status on mpox without explicit step-by-step recommendations or direct instructions."
+    }
+  },
+  {
+    "id": "c580ffb2-6170-459a-91a9-5084a4096a81",
+    "title": "5 Morning Exercises Men Should Do Every Day to Stay Young After 45 - Eat This Not That",
+    "url": "https://www.eatthis.com/morning-exercises-men-over-45-daily/",
+    "source": "Eatthis.com",
+    "summary": {
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01jy1qsg8te5zvf23rcnmt4e8b` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 6283, Requested 724. Please try again in 10.076s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+    },
+    "classification": {
+      "label": "Informative",
+      "confidence": 0.8,
+      "reason": "The summary lacks explicit step-by-step or clear recommendations, making it more of background information."
+    }
+  },
+  {
+    "id": "3e7d8029-b146-4fd1-9775-1de29f0ef447",
+    "title": "High-Protein Apple & Peanut Butter Overnight Oats Are the Best Way to Start Your Day - EatingWell",
+    "url": "https://www.eatingwell.com/high-protein-apple-peanut-butter-overnight-oats-11784430",
+    "source": "Eatingwell.com",
+    "summary": {
+      "summary": "A high-protein overnight oats recipe, combining apple and peanut butter, is presented as a nutritious morning option. The recipe's nutritional information is estimated and includes Daily Values for various nutrients. This breakfast choice is high in protein and fiber.",
+      "key_facts": [
+        "The high-protein apple & peanut butter overnight oats recipe is estimated to be high in protein.",
+        "The recipe is a combination of apple and peanut butter with oats and other ingredients.",
+        "Nutritional information is an estimate and based on an ingredient database."
+      ],
+      "uncertainty": "Nutritional information is an estimate and may vary based on specific ingredients used.",
+      "recommendation": "Information only"
+    },
+    "classification": {
+      "label": "Actionable Advice",
+      "confidence": 0.8,
+      "reason": "The article provides a specific recipe with nutritional information, suggesting it is actionable."
+    }
+  },
+  {
+    "id": "746259a5-20e9-4dfe-92f2-d6bd4534105e",
+    "title": "Simple rhythmic sounds can reshape the brain’s entire network landscape, study finds - PsyPost",
+    "url": "https://www.psypost.org/simple-rhythmic-sounds-can-reshape-the-brains-entire-network-landscape-study-finds/",
+    "source": "PsyPost",
+    "summary": {
+      "summary": "A new study found that even simple rhythmic sounds can reconfigure how the brain organizes itself. Researchers used a new analytical tool called FREQ-NESS to analyze the brain's network landscape. This suggests a strong link between auditory rhythms and brain organization.",
+      "key_facts": [
+        "The study found that simple rhythmic sounds can reconfigure how the brain organizes itself.",
+        "Researchers used a new analytical tool called FREQ-NESS to analyze the brain's network landscape.",
+        "The study suggests a strong link between auditory rhythms and brain organization."
+      ],
+      "uncertainty": "The study's findings are based on a specific analytical tool and may have limitations in generalizability.",
+      "recommendation": "Consult professional"
+    },
+    "classification": {
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01jy1qsg8te5zvf23rcnmt4e8b` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 5863, Requested 301. Please try again in 1.634s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+    }
+  }
+]

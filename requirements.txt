@@ -1,0 +1,12 @@
+python-dotenv
+langchain   # match to your installed LangChain version
+openai
+httpx
+feedparser
+beautifulsoup4
+tenacity
+#uvloop        # optional, faster event loop on unix
+beautifulsoup4
+httpx
+tenacity
+dotenv
