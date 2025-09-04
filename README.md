@@ -14,7 +14,7 @@ The system runs asynchronously with error handling and produces structured JSON 
 ---
 
 ## Architecture
-![Architecture Diagram](docs/Architecture.png)
+![Architecture Diagram](Architecture.png)
 
 ---
 
@@ -34,3 +34,4 @@ cd health-multi-agent
 python -m venv agent
 source agent/bin/activate   # (or agent\Scripts\activate on Windows)
 pip install -r requirements.txt
+
